@@ -4,12 +4,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "QinLi",
   description: "QinLiBlog",
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     footer: {
       message: "qinli515@bjfu.edu.cn",
       //copyright: 'qinli515@bjfu.edu.cn'
     },
+    sidebarMenuLabel:"Contact",
+    logo: "/logo.svg",
     search: {
       provider: 'local'
     },

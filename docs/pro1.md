@@ -75,8 +75,6 @@ High-resolution potfolio can be find [here](/PORTFOLIO_2019-2024_QinLi.pdf).
 >  _3/2020-6/2020_ 
 <br> Personal Work ( Under the guidance of [Prof. Xiaodong Zheng](https://sola.bjfu.edu.cn/cn/teachers/office/js/388443.html))
 
-![Pasted_image_20250307103959.png](/Pasted_image_20250307103959.png)
-
 ![Pasted_image_20250307103945.png](/Pasted_image_20250307103945.png)
 
 ![Pasted_image_20250307104010.png](/Pasted_image_20250307104010.png)
