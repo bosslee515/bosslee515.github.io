@@ -2,6 +2,7 @@
 outline: 2
 prev: false
 next: false
+lazyLoading: true
 ---
 # Publications and Presentations
 

@@ -2,6 +2,7 @@
 outline: 2-3
 prev: false
 next: false
+lazyLoading: true
 ---
 
 # Projects and Works
